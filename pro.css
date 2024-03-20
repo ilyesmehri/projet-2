@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+   
+}
+
+#titel {
+    background-color:blue;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+#secand {
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+    padding: 100px 0;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    width: 100px;
+}
+
+button {
+    padding: 10px 50px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+#img2{
+    
+        max-width: 40%;
+        height: auto;
+      
+}
+#text {
+    
+    color: #fff;
+    text-align: center;
+
+}
+.next{
+    color: #fff;
+    text-align: center
+}
+
+
